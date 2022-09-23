@@ -1,5 +1,7 @@
 # Webpack gyakarló feladat
 
+Zuber Marcell
+
 ## Telepítés
 
 * Klónozás után futtasd le az "npm install" utasítást.

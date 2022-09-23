@@ -1,0 +1,72 @@
+body {
+    background-image: url("/images/hatter.png");
+}
+
+.navbar-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.grey-box {
+    background-color: rgb(237, 237, 237);
+    border: solid 1px rgb(205, 205, 205);
+}
+
+.white-box {
+    background-color: white;
+    border: solid 1px rgb(205, 205, 205);
+}
+
+section {
+ margin-bottom: 1%;   
+}
+
+.inside-margin {
+    margin: 1%;
+}
+
+.orange-box {
+    background-color: orange;
+}
+.orange-bg {
+    background-color: orange;
+    padding: 50px;
+}
+
+.main-title {
+    font-size: 500%;
+}
+
+.navbar {
+    background-color: white;
+    margin-top: 1%;
+    padding: 20px;
+}
+
+a {
+    color: orange;
+    font-style: italic;
+    text-decoration: none;
+}
+
+
+.orange-box, .white-box, .grey-box {
+    padding: 2%;
+}
+
+.sectionTitle {
+    font-weight: 600;
+    color: rgb(37, 37, 37);
+}
+
+table, td, th {
+    border: 1px solid rgb(219, 219, 219);
+}
+
+td {
+    padding: 1%;
+}
+
+table {
+    width: 100%;
+}
