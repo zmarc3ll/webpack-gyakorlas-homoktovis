@@ -1,7 +1,7 @@
 import 'bootstrap/dist/js/bootstrap.bundle.js'
 import 'bootstrap/dist/css/bootstrap.css'
 
-import './main.css'
+import './style.css'
 
 console.log("Loaded");
 document.addEventListener('DOMContentLoaded', init);
